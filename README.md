@@ -3,3 +3,4 @@
 - Used MinMax Scaler to scale my features.
 - Used RandomizedSearchCV to tune the hyperparameters. 
 - Obtained a SVM model with 86% accuracy & 84.27% Precision.
+- Applied EDA using Microsoft Power BI on this link https://www.novypro.com/project/customer-churn--1
